@@ -22,4 +22,8 @@
 
 ### 2 Facial Micro-Expression Datasets
 
+Facial Micro-Expression Datasets = Non-Spontaneous Datasets | Spontaneous Datasets
 
+Features Of Polikovsky Dataset = 数据有限 | Non-Spontaneous | 不公开
+
+Features Of USF-HD = 
